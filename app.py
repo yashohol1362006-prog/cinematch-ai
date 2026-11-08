@@ -6,7 +6,7 @@
 # import pickle
 # import requests
 
-# TMDB_ACCESS_TOKEN = st.secrets["TMDB_ACCESS_TOKEN"]
+# TMDB_ACCESS_TOKEN = st.secrets["TMDB_ACCESS_TOKEN"] 
 # def get_poster(movie_id):
 #     url = f"https://api.themoviedb.org/3/movie/{movie_id}"
 
